@@ -1,0 +1,12 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore any generated Excel files
+*.xlsx
+
+# Ignore any generated HTML files
+*.html
+
+# Ignore the Uploads and ExtractedTranslation directories
+/Uploads/
+/ExtractedTranslation/

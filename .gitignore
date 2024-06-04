@@ -8,5 +8,4 @@ node_modules/
 *.html
 
 # Ignore the Uploads and ExtractedTranslation directories
-/Uploads/
-/ExtractedTranslation/
+

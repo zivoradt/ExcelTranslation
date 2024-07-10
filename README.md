@@ -1,4 +1,3 @@
-Here's a README for your GitHub repository, detailing the "Translator and Copydeck Maker for AEM components" project. This README includes sections on the project overview, setup, and usage, with specific mentions of the backend server and browser extension.
 
 ---
 
@@ -63,7 +62,7 @@ The "Translator and Copydeck Maker for AEM components" project is designed to fa
 The browser extension allows you to send HTML content to the backend server for translation or copydeck creation.
 
 1. **Select the HTML content** you want to send.
-2. **Right-click** and choose the appropriate option from the context menu (e.g., "Send to Backend for Translation" or "Send to Backend for Copydeck").
+2. **Right-click** and choose the appropriate option from the context menu (e.g., "Send to Backend for Copydeck").
 
 ### Creating a Copydeck
 
